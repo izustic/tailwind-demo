@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "img",
+			"path": "../crash-course/tailwind-landing-page/img"
+		},
+		{
+			"name": "demo1",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "demo1"
+	}
+}
